@@ -3,6 +3,4 @@ How do we determine the life quality of a country? Which issues that a country n
 
 [Life Expectancy Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 ### This is the notebook of the project. 
-[Notebook](file:///C:/Users/Joe/Desktop/Life_Expectancy_Prediction.html)
-[a relative link](file:///C:/Users/Joe/Desktop/Life_Expectancy_Prediction.html.md)
-<a href="file:///C:/Users/Joe/Desktop/Life_Expectancy_Prediction.html">Link 1</a>
+file:///C:/Users/Joe/Desktop/Life_Expectancy_Prediction.html
